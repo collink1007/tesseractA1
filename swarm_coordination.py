@@ -7,6 +7,7 @@ class SwarmCoordinator:
     def __init__(self):
         self.agents = {
             "Tessera Nu": "Evolution",
+            "Tessera Mu": "Quantum",
             "Tessera Gamma": "Research",
             "Tessera Kappa": "Web Scraper",
             "Tessera Beta": "Code Architect",
